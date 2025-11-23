@@ -1,15 +1,12 @@
 <h1 align='center'>Lucas Costa</h1>
 
-<div align='left'>
-Programando desde 2020, extremamente apaixonado por <strong>computação</strong> e curioso em <strong>programação low-level</strong>, em especial <strong>engenharia reversa</strong> e <strong>game-hacking</strong>. Nas horas vagas provavelmente estarei em <strong>Assembly</strong> e <strong>C</strong>, ou até mesmo consumindo conteúdo de programação no geral.
+<div align='center'>
+Full Stack Developer @MikeTec | ADS @FATEC
+
+TypeScript • C#/.NET • React • Next.js • MongoDB • Elasticsearch
+<br>
+Low-level programming, engenharia reversa, game-hacking
 </div>
-
-##
-
-<div align='left'>
-No momento, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Trabalho na <strong>MikeTec</strong> como <strong>Desenvolvedor de Software</strong> com <strong>TypeScript</strong> e <strong>C# (.NET)</strong>. Tenho experiência em desenvolvimento que inclui implementação de <strong>SPAs</strong>, componentes reutilizáveis, criação de formulários dinâmicos e interativos, sistemas de <strong>autenticação (2FA)</strong>, <strong>autorização</strong>, integrações com <strong>gateways de pagamento</strong> e desenvolvimento de <strong>APIs RESTful</strong>. Também atuo com <strong>Azure DevOps</strong> para CI/CD, <strong>Elasticsearch</strong>, <strong>MongoDB</strong> e <strong>Postman</strong> para documentação e testes de API.
-</div>
-
 
 <h3 align='center'>Apaixonado por aprender e ensinar!<br><br></h3>
 
