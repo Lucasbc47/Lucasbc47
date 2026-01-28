@@ -3,7 +3,7 @@
 <div align='center'>
 Full Stack Developer @MikeTec | ADS @FATEC
 
-TypeScript • C#/.NET • React • Next.js • MongoDB • Elasticsearch
+TypeScript • C#/.NET • React • Next.js • MongoDB • Elasticsearch • PostgreSQL
 <br>
 Low-level programming, engenharia reversa, game-hacking
 </div>
